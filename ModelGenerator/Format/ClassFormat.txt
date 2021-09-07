@@ -1,0 +1,14 @@
+﻿using System.Collections.Generic;
+using DapperFramework.Attributes;
+
+namespace {databaseName}
+{
+
+	public class {className}
+	{
+		
+{properties}
+{forignKeys}
+
+	}
+}

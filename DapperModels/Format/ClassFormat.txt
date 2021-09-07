@@ -1,0 +1,13 @@
+﻿using System.Collections.Generic;
+
+namespace {databaseName}
+{
+
+	public class {className}
+	{
+		
+{properties}
+{forignKeys}
+
+	}
+}
